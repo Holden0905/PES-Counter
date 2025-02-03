@@ -9,6 +9,7 @@ body {
     font-weight: bold;
     text-align: center;
     margin: 0; /* Removes default margin */
+    background-color: white;
 }
 
 img{
@@ -64,11 +65,11 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 600px;
-    width: 600px;
+    height: 400px;
+    width: 500px;
     background: rgba(255, 255, 255, 0.1); /* Optional: Adds a light background for better visibility */
     padding: 20px; /* Adds some spacing inside */
     border-radius: 10px; /* Optional: Rounds the corners */
-    border: 3px solid black
+    border: 3px solid black  
 }
 
